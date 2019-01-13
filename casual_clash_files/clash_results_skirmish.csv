@@ -1,0 +1,2 @@
+agent_blue,agent_red,ammo_blue,ammo_red,deaths_blue,deaths_red,replay_filename,score,score_blue,score_red,steps,think_time_blue,think_time_red,winner
+comparison_agent.py,default_agent.py,9,20,20,5,default_agent_vs_comparison_agent_skirmish.replay,0.865,54,346,150,0.380635999999998,0.24128400000000294,default_agent.py

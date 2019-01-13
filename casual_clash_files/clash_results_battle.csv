@@ -1,0 +1,2 @@
+agent_blue,agent_red,ammo_blue,ammo_red,deaths_blue,deaths_red,replay_filename,score,score_blue,score_red,steps,think_time_blue,think_time_red,winner
+comparison_agent.py,default_agent.py,41,85,23,36,default_agent_vs_comparison_agent_battle.replay,0.335,266,134,150,1.4490629999999878,0.8346859999999889,comparison_agent.py
