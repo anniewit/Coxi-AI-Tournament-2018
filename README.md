@@ -5,7 +5,7 @@ Agent of my group: final_cateze.py (see ChaosCoxiClub directory)
 Approach: train neural network (smart_cateze.py) with genetic algorithm (genetic_algorithm_multiple.py)
 
 ----------------------------------------------------------------------
-
+## General Setup
 Environment and Evaluation Scripts for the CAT 2018.
 
 Usage requires python 2.7 as well as all the packages mentioned in requirements.txt. 
