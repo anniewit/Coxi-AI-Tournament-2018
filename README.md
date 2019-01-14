@@ -1,4 +1,10 @@
 # CAT 2018
+game environment, comparison_agent and default_agent were provided by the organizers
+
+Agent of my group: final_cateze.py (see ChaosCoxiClub directory)
+Approach: train neural network (smart_cateze.py) with genetic algorithm (genetic_algorithm_multiple.py)
+
+----------------------------------------------------------------------
 
 Environment and Evaluation Scripts for the CAT 2018.
 
